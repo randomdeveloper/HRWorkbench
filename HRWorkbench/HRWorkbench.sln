@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRWorkbench", "HRWorkbench.csproj", "{9B581BEB-3D42-4EF3-BC48-E8B5DA71915F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRWorkbench.Tests", "..\HRWorkbench.Tests\HRWorkbench.Tests.csproj", "{0B7F8CF7-B049-4DCD-84EB-1D2AED247456}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRWorkbench.Web", "HRWorkbench.Web\HRWorkbench.Web.csproj", "{FCB819C2-B358-4C1B-9572-693112EDA9D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B581BEB-3D42-4EF3-BC48-E8B5DA71915F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B581BEB-3D42-4EF3-BC48-E8B5DA71915F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B581BEB-3D42-4EF3-BC48-E8B5DA71915F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B581BEB-3D42-4EF3-BC48-E8B5DA71915F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B7F8CF7-B049-4DCD-84EB-1D2AED247456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B7F8CF7-B049-4DCD-84EB-1D2AED247456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B7F8CF7-B049-4DCD-84EB-1D2AED247456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B7F8CF7-B049-4DCD-84EB-1D2AED247456}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCB819C2-B358-4C1B-9572-693112EDA9D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCB819C2-B358-4C1B-9572-693112EDA9D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCB819C2-B358-4C1B-9572-693112EDA9D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCB819C2-B358-4C1B-9572-693112EDA9D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
